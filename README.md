@@ -60,4 +60,4 @@ The unit tests use MSTest and Moq. They cover the model's game logic and use a m
 
 ## About
 
-Made as a university assignment for the Event-driven Applications course at ELTE (2026).
+Made as a university assignment for the Event-driven Applications course at ELTE (2025).
